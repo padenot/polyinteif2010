@@ -1,0 +1,173 @@
+\documentclass[a4paper, 11pt]{inte}
+
+% Faire des marges un peu moins large que celles par défaut
+\usepackage[top=20mm, bottom=20mm, left=20mm, right=20mm]{geometry}
+\usepackage[utf8]{inputenc} % Pour l'encodage 
+% Reconnaitre les caratères accentués dans le source.
+\usepackage[T1]{fontenc} 
+% Meilleurs polices
+%\usepackage{concmath}
+\usepackage{fourier}
+\usepackage[francais]{babel}
+% Insertion d'images
+\usepackage{graphicx}
+% Pour le listing de code
+\usepackage{listings}
+\usepackage{color}
+% Pour fixer l'interlignage
+\usepackage{setspace} 
+% Pour faire un index (ici glossaire)
+\usepackage{makeidx}
+% Pour gérer les liens internes et les URL cliquables
+\usepackage{url}
+% Pour les headers et footers
+\usepackage{fancyhdr}
+% Pour le logo en haut a droite
+\usepackage{eso-pic} 
+% Pour l'enroulement du texte autour des figures
+\usepackage{wrapfig}
+% Pour la couverture en PDF pleine page
+\usepackage{pdfpages} 
+% Pour la biblio bibtex
+\usepackage{bibunits}
+% Pour gérer les éléments flottants
+\usepackage{float}
+% Pour les cadres à ombrage du glossaire
+\usepackage{fancybox}
+% Pour faire des sous-figures correctement numérotés
+\usepackage{subfigure}
+% Pour mettre les liens cliquables
+\usepackage{hyperref}
+\usepackage{lettrine}
+\usepackage{multicol}
+\usepackage{rotating}
+\usepackage{amsmath}
+\include{pstricks}
+
+\hypersetup{urlcolor=blue,linkcolor=red,citecolor=black,colorlinks=true}
+
+%headers, footers
+\pagestyle{fancy}
+\rhead{INSA de Lyon}
+\lhead{Poly d'inté IF'2010}
+\cfoot{\thepage}
+\renewcommand{\footrulewidth}{0.4pt}
+
+% Séparation entre les deux colonnes
+\setlength{\columnsep}{0.8cm}
+% Largeur de la ligne de séparation
+%\setlength{\columnseprule}{1pt}
+
+% Changer la fonte vers Helvetica
+%\usepackage{helvet}
+% Changer la fonte vers Libris ADF
+%\usepackage{libris}
+% Changer la fonte vers Venturis Sans
+\usepackage[lf]{venturis}
+
+% Pour mettre en sans-serif par défaut
+\renewcommand*\familydefault{\sfdefault} 
+% Unité pour pstricks
+\setlength{\unitlength}{1mm}
+
+
+% Couleur des url et des liens internes.
+
+\definecolor{sectionColor}{rgb}{0.33,0.33,1}
+\definecolor{subSectionColor}{rgb}{0.5,0.5,1}
+\definecolor{subSubSectionColor}{rgb}{0,0,1}
+\definecolor{coulcitation}{rgb}{0.90,0.90,0.90}
+\setlength{\headheight}{13.6pt}
+
+
+\renewcommand{\LettrineFontHook}{\fontfamily{pag}%
+                \fontseries{bx}\fontshape{it}\color{red}}
+
+  \newenvironment{changemargin}[2]%
+  {\begin{list}{}{%
+    \setlength{\listparindent}{\parindent}%
+    \setlength{\itemindent}{\parindent}%
+    \setlength{\leftmargin}{#1}%
+    \setlength{\rightmargin}{#2}%
+  }\item }%
+{\end{list}}
+
+
+% Boites pour citation
+\newsavebox{\auteurcitation}
+\newsavebox{\boitecitation}
+\newenvironment{citationi}[1]
+{% 
+    \savebox{\auteurcitation}{#1}
+    \begin{lrbox}{\boitecitation}
+    \begin{minipage}{.8\linewidth}
+    \small \slshape «~\ignorespaces
+}
+{%
+    \unskip{}~»  
+
+    \par\nopagebreak\hfill\usebox{\auteurcitation}
+
+    \end{minipage}
+    \end{lrbox}
+
+    \begin{center}
+	\colorbox{coulcitation}{\usebox{\boitecitation}}
+    \end{center}
+}
+
+\newenvironment{citationii}[1]
+{% 
+    \begin{lrbox}{\boitecitation}
+    \begin{minipage}{.8\linewidth}
+    \small \slshape «~\ignorespaces
+}
+{%
+    \unskip{}~»  
+
+    \end{minipage}
+    \end{lrbox}
+
+    \begin{center}
+	\colorbox{coulcitation}{\usebox{\boitecitation}}
+    \end{center}
+}
+
+\newcommand{\carre}[2]{%
+\begin{center}
+\begin{picture}(#1,#2)
+    \framebox(#1,#2){}
+\end{picture}
+\end{center}
+}
+
+\newcommand{\orga}[1]{%
+\begin{center}
+	\includegraphics[height=5cm]{#1}%
+\end{center}
+}
+
+
+
+
+\newcommand{\adresseCoupon}{%
+\begin{center}
+\colorbox{coulcitation}{
+    \begin{minipage}{.8\linewidth}
+	M\up{elle} Sandra \textsc{Mondain}\\
+	Appartement 13 \\
+	130, rue du 4 août 1789 \\
+	69100 Villeurbanne 
+    \end{minipage}
+}
+\end{center}%
+}
+
+\newcommand{\plex}[2]{%
+    \vspace{0.3em}
+    \shadowbox{#1} \\
+    #2
+
+}
+
+
