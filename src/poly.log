@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2010.5.7)  14 JUL 2010 00:14
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2010.5.7)  14 JUL 2010 15:26
 entering extended mode
  %&-line parsing enabled.
 **poly.tex
@@ -941,8 +941,10 @@ LaTeX Info: Redefining \] on input line 2667.
 \pst@shift=\dimen168
 \theoverlaybox=\box67
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 47.
+\@input{xcolor.aux}
+\openout2 = `xcolor.aux'.
 
+No file xcolor.tex.
 (/home/paul/texmf/tex/latex/venturisadf/venturis.sty
 Package: venturis 2008/11/05 v1.004 VenturisADF PS
 
@@ -960,10 +962,16 @@ LaTeX Info: Redefining \itshape on input line 503.
 LaTeX Info: Redefining \scshape on input line 511.
 LaTeX Info: Redefining \upshape on input line 525.
 ))
+Package hyperref Info: Option `colorlinks' set `true' on input line 93.
+
+
+Package hyperref Warning: Unsupported color specification (linkbordercolor).
+(hyperref)                Load package `xcolor' (version >= 2.11) first.
+(hyperref)                Ignoring color specification on input line 93.
+
 \auteurcitation=\box68
 \boitecitation=\box69
-)
-(./poly.aux)
+) (./poly.aux)
 \openout1 = `poly.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
@@ -1121,12 +1129,9 @@ ap}
 
 
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
- []
 
-[2] (./intro.tex
+] (./intro.tex
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 32.
  (/usr/share/texmf-texlive/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
@@ -1138,7 +1143,7 @@ File: ts1yv1.fd 2008/11/19 Fontinst v1.929 font definitions for TS1/yv1.
 )
 LaTeX Font Info:    Font shape `T1/yv1/m/sl' in size <10> not available
 (Font)              Font shape `T1/yv1/m/it' tried instead on input line 55.
- [3])
+ [2])
 (./presentationDepartIntro.tex) (./lieux.tex
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
 (Font)              scaled to size 8.27998pt on input line 22.
@@ -1148,25 +1153,25 @@ LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 8.27998pt on input line 22.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 6.99199pt on input line 22.
- [4]) (./scolarite.tex)
-(./enseignement.tex [5]) [6] (./introInte.tex
+ [3]) (./scolarite.tex [4])
+(./enseignement.tex) [5] (./introInte.tex
 Underfull \hbox (badness 10000) in paragraph at lines 7--8
 []\T1/yv1/m/n/10.95 Twitter : un pe-tit mes-sage à
  []
 
-<images/telPaulQRcode.png, id=242, 115.43124pt x 115.43124pt>
+<images/telPaulQRcode.png, id=243, 115.43124pt x 115.43124pt>
 File: images/telPaulQRcode.png Graphic file (type png)
 
 <use images/telPaulQRcode.png>
-<images/qrcodeBjrLesIfsTwitter.png, id=243, 155.58125pt x 155.58125pt>
+<images/qrcodeBjrLesIfsTwitter.png, id=244, 155.58125pt x 155.58125pt>
 File: images/qrcodeBjrLesIfsTwitter.png Graphic file (type png)
 
 <use images/qrcodeBjrLesIfsTwitter.png>
-<images/qrcodeEmail.png, id=244, 155.58125pt x 155.58125pt>
+<images/qrcodeEmail.png, id=245, 155.58125pt x 155.58125pt>
 File: images/qrcodeEmail.png Graphic file (type png)
 
 <use images/qrcodeEmail.png>
-<images/qrcodeFacebook.png, id=245, 135.50626pt x 135.50626pt>
+<images/qrcodeFacebook.png, id=246, 135.50626pt x 135.50626pt>
 File: images/qrcodeFacebook.png Graphic file (type png)
 
 <use images/qrcodeFacebook.png>
@@ -1181,81 +1186,81 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--21
 
 ) (./decouverteDepart.tex
 
-LaTeX Warning: Reference `plan' on page 7 undefined on input line 8.
+LaTeX Warning: Reference `plan' on page 6 undefined on input line 8.
 
 ) (./soireeKFET.tex) (./visiteCampus.tex) (./petitDej.tex)
 (./pastisPetanque.tex) (./verreVille.tex) (./barathon.tex) (./karaoke.tex)
-[7 <./images/telPaulQRcode.png (PNG copy)> <./images/qrcodeBjrLesIfsTwitter.png
+[6 <./images/telPaulQRcode.png (PNG copy)> <./images/qrcodeBjrLesIfsTwitter.png
  (PNG copy)> <./images/qrcodeEmail.png (PNG copy)> <./images/qrcodeFacebook.png
  (PNG copy)>] (./flams.tex) (./rallye.tex) (./weiShort.tex) (./barbecue.tex)
 (./chouille.tex) (./conceptWEI.tex) (./vendrediWEI.tex
 <images/logoAltran.jpg, id=257, 486.1362pt x 86.2422pt>
 File: images/logoAltran.jpg Graphic file (type jpg)
 
-<use images/logoAltran.jpg>) (./samediWEI.tex [8 <./images/logoAltran.jpg>])
+<use images/logoAltran.jpg>) (./samediWEI.tex [7 <./images/logoAltran.jpg>])
 (./dimancheWEI.tex) (./affairesAEmporter.tex
 LaTeX Font Info:    Font shape `T1/yv1/m/sc' in size <10.95> not available
 (Font)              Font shape `T1/yv1/m/n' tried instead on input line 24.
-) [9] (./presentationOrgas.tex
-<images/orgas/armand.jpg, id=271, 156.585pt x 214.401pt>
+) [8] (./presentationOrgas.tex
+<images/orgas/armand.jpg, id=272, 156.585pt x 214.401pt>
 File: images/orgas/armand.jpg Graphic file (type jpg)
 
 <use images/orgas/armand.jpg>
-<images/orgas/billy.jpg, id=272, 318.18875pt x 434.62375pt>
+<images/orgas/billy.jpg, id=273, 318.18875pt x 434.62375pt>
 File: images/orgas/billy.jpg Graphic file (type jpg)
 
 <use images/orgas/billy.jpg>
-<images/orgas/clement.jpg, id=273, 156.88612pt x 214.70212pt>
+<images/orgas/clement.jpg, id=274, 971.63pt x 650.43pt>
 File: images/orgas/clement.jpg Graphic file (type jpg)
 
 <use images/orgas/clement.jpg>
-<images/orgas/gael.jpg, id=274, 132.79613pt x 198.14024pt>
+<images/orgas/gael.jpg, id=275, 132.79613pt x 198.14024pt>
 File: images/orgas/gael.jpg Graphic file (type jpg)
 
 <use images/orgas/gael.jpg>
-<images/anonymous.jpg, id=275, 450.68375pt x 530.98375pt>
+<images/anonymous.jpg, id=276, 450.68375pt x 530.98375pt>
 File: images/anonymous.jpg Graphic file (type jpg)
 
 <use images/anonymous.jpg>
-<images/orgas/julian.jpg, id=276, 1072.005pt x 714.67pt>
+<images/orgas/julian.jpg, id=277, 1072.005pt x 714.67pt>
 File: images/orgas/julian.jpg Graphic file (type jpg)
 
-<use images/orgas/julian.jpg> [10 <./images/orgas/armand.jpg> <./images/orgas/b
-illy.jpg> <./images/orgas/clement.jpg> <./images/orgas/gael.jpg> <./images/anon
-ymous.jpg> <./images/orgas/julian.jpg>]
-<images/orgas/julien.jpg, id=287, 1009.7725pt x 673.51625pt>
+<use images/orgas/julian.jpg> [9 <./images/orgas/armand.jpg> <./images/orgas/bi
+lly.jpg> <./images/orgas/clement.jpg> <./images/orgas/gael.jpg> <./images/anony
+mous.jpg> <./images/orgas/julian.jpg>]
+<images/orgas/julien.jpg, id=288, 1009.7725pt x 673.51625pt>
 File: images/orgas/julien.jpg Graphic file (type jpg)
 
 <use images/orgas/julien.jpg>
-<images/orgas/loic.jpg, id=288, 335.2525pt x 501.875pt>
+<images/orgas/loic.jpg, id=289, 335.2525pt x 501.875pt>
 File: images/orgas/loic.jpg Graphic file (type jpg)
 
 <use images/orgas/loic.jpg>
-<images/orgas/marc.jpg, id=289, 337.26pt x 501.875pt>
+<images/orgas/marc.jpg, id=290, 337.26pt x 501.875pt>
 File: images/orgas/marc.jpg Graphic file (type jpg)
 
 <use images/orgas/marc.jpg>
-<images/orgas/nicolas.jpg, id=290, 397.485pt x 706.64pt>
+<images/orgas/nicolas.jpg, id=291, 397.485pt x 706.64pt>
 File: images/orgas/nicolas.jpg Graphic file (type jpg)
 
 <use images/orgas/nicolas.jpg>
-<images/orgas/paul.jpg, id=291, 100.87688pt x 150.86363pt>
+<images/orgas/paul.jpg, id=292, 100.87688pt x 150.86363pt>
 File: images/orgas/paul.jpg Graphic file (type jpg)
 
 <use images/orgas/paul.jpg>
-<images/orgas/quentin.jpg, id=292, 256.96pt x 337.26pt>
+<images/orgas/quentin.jpg, id=293, 256.96pt x 337.26pt>
 File: images/orgas/quentin.jpg Graphic file (type jpg)
 
 <use images/orgas/quentin.jpg>
-<images/orgas/sandra.jpg, id=293, 97.86563pt x 130.086pt>
+<images/orgas/sandra.jpg, id=294, 97.86563pt x 130.086pt>
 File: images/orgas/sandra.jpg Graphic file (type jpg)
 
-<use images/orgas/sandra.jpg> [11
+<use images/orgas/sandra.jpg> [10
 
  <./images/orgas/julien.jpg> <./images/orgas/loic.jpg> <./images/orgas/marc.jpg
 > <./images/orgas/nicolas.jpg> <./images/orgas/paul.jpg> <./images/orgas/quenti
 n.jpg>]
-<images/orgas/sebastien.jpg, id=304, 100.87688pt x 139.11975pt>
+<images/orgas/sebastien.jpg, id=305, 100.87688pt x 139.11975pt>
 File: images/orgas/sebastien.jpg Graphic file (type jpg)
 
 <use images/orgas/sebastien.jpg>
@@ -1263,20 +1268,29 @@ File: images/anonymous.jpg Graphic file (type jpg)
  <use images/anonymous.jpg>
 File: images/anonymous.jpg Graphic file (type jpg)
 
-<use images/anonymous.jpg>) [12 <./images/orgas/sandra.jpg> <./images/orgas/seb
-astien.jpg>] (./questionnaire.tex
+<use images/anonymous.jpg>
+<images/stormtrooper_biere.png, id=306, 522.56769pt x 588.77307pt>
+File: images/stormtrooper_biere.png Graphic file (type png)
+
+<use images/stormtrooper_biere.png>) [11 <./images/orgas/sandra.jpg> <./images/
+orgas/sebastien.jpg> <./images/stormtrooper_biere.png>] (./questionnaire.tex
 Underfull \hbox (badness 10000) in paragraph at lines 10--12
 []
  []
 
 File: images/anonymous.jpg Graphic file (type jpg)
-<use images/anonymous.jpg> [13]
+<use images/anonymous.jpg> [12]
 Underfull \hbox (badness 10000) in paragraph at lines 60--62
 []\T1/yv1/bx/n/10.95 Combien d'épi-sode de sé-rie
  []
 
 File: images/anonymous.jpg Graphic file (type jpg)
-<use images/anonymous.jpg> [14]) [15] (./insaEnGros.tex
+<use images/anonymous.jpg> [13]
+<images/stormTrooperBourre.png, id=333, 471.01846pt x 308.28462pt>
+File: images/stormTrooperBourre.png Graphic file (type png)
+
+<use images/stormTrooperBourre.png>) [14 <./images/stormTrooperBourre.png>]
+(./insaEnGros.tex
 Underfull \hbox (badness 10000) in paragraph at lines 5--8
 
  []
@@ -1301,46 +1315,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--26
 
  []
 
-) (./insaPasQueIF.tex) (./campus.tex [16]) (./associatif.tex) (./bde.tex)
-(./grosEvenements.tex [17]) (./lyonEnGros.tex [18]
-Underfull \hbox (badness 10000) in paragraph at lines 79--81
-[]\T1/yv1/m/n/10.95 Pour en sa-voir plus sur notre ami
- []
+) (./insaPasQueIF.tex) (./campus.tex [15]) (./associatif.tex) (./bde.tex)
+(./grosEvenements.tex [16]) (./lyonEnGros.tex [17]) (./commentVenir.tex)
+(./onFaitQuoi.tex) [18] (./lexique.tex) [19
 
+] [20
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--81
-\T1/yv1/m/n/10.95 Jean-Pierre : [][]$\T1/cmtt/m/n/10.95 http : / / www . facebo
-ok . com /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 79--81
-\T1/cmtt/m/n/10.95 profile . php ? id = 100000587989977 # ! / pages /
- []
-
-
-Overfull \hbox (16.34267pt too wide) in paragraph at lines 79--81
-\T1/cmtt/m/n/10.95 Jean-[]Pierre-[]le-[]coureur-[]des-[]berges-[]du-[]Rhone /
- []
-
-) (./commentVenir.tex) (./onFaitQuoi.tex) [19] (./lexique.tex) [20
-
-] [21
-
-]
-(./poly.aux)
+] (./poly.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 10085 strings out of 94074
- 134193 string characters out of 1165154
- 217784 words of memory out of 1500000
- 12919 multiletter control sequences out of 10000+50000
+ 10099 strings out of 94074
+ 134578 string characters out of 1165154
+ 228521 words of memory out of 1500000
+ 12930 multiletter control sequences out of 10000+50000
  106279 words of font info for 75 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 30i,12n,43p,425b,581s stack positions out of 5000i,500n,6000p,200000b,5000s
+ 30i,12n,43p,1359b,568s stack positions out of 5000i,500n,6000p,200000b,5000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf-
 texlive/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texlive/fonts/type1/publi
 c/fourier/fourier-ms.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0900
@@ -1348,9 +1341,9 @@ c/fourier/fourier-ms.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0900
 mf/fonts/type1/arkandis/venturissans/yv1b8ax.pfb></home/paul/texmf/fonts/type1/
 arkandis/venturissans/yv1r8a.pfb></home/paul/texmf/fonts/type1/arkandis/venturi
 ssans/yv1ri8a.pfb>
-Output written on poly.pdf (21 pages, 2073450 bytes).
+Output written on poly.pdf (20 pages, 2383605 bytes).
 PDF statistics:
- 418 PDF objects out of 1000 (max. 8388607)
+ 421 PDF objects out of 1000 (max. 8388607)
  106 named destinations out of 1000 (max. 131072)
- 416 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 434 words of extra memory for PDF output out of 10000 (max. 10000000)
 

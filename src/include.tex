@@ -43,8 +43,8 @@
 \usepackage{rotating}
 \usepackage{amsmath}
 \include{pstricks}
+\include{xcolor}
 
-\hypersetup{urlcolor=blue,linkcolor=red,citecolor=black,colorlinks=true}
 
 %headers, footers
 \pagestyle{fancy}
@@ -73,11 +73,25 @@
 
 % Couleur des url et des liens internes.
 
-\definecolor{sectionColor}{rgb}{0.33,0.33,1}
-\definecolor{subSectionColor}{rgb}{0.5,0.5,1}
-\definecolor{subSubSectionColor}{rgb}{0,0,1}
+\definecolor{sectionColor}{rgb}{0,0,1}
+\definecolor{subSectionColor}{rgb}{0,0,0.8}
+\definecolor{subSubSectionColor}{rgb}{0,0,0.6}
 \definecolor{coulcitation}{rgb}{0.90,0.90,0.90}
+\definecolor{gris25}{rgb}{0, 0, 0.8}
 \setlength{\headheight}{13.6pt}
+
+
+\hypersetup{
+    pdftitle={Poly d'inté IF'2010},    % title
+    pdfauthor={Équipe d'inté IF'2010},     % author
+    pdfsubject={On peut mettre plein de trucs ici. Alors la recette de la 	tarte à la rhubarbe : Pour 6 personne(s) -Pour la pate sablée : 300 g de farine, 2 cuillères à soupe d'huile, 2 cuillères à soupe de lait, 2 cuillères à soupe de sucre, 125 g de beurre mou, 1 jaune d'oeuf(conserver le blanc pour la crème) -Pour la garniture : une belle botte de rhubarbe pelée et coupée en gros dés , 2 cuillères à soupe de crème fraiche épaisse, 2 oeufs et le blanc restant, 125 g de sucre, un peu de lait ,1 cuillère à café de maïzena PREPARATION 1 Mélanger la farine, le sucre, le beurre ramolli, ajouter le jaune d'oeuf , l'huile et le lait. Malaxer, bien rajouter un peu de farine si nécessaire pour que la pâte ne colle plus aux doigts.  2 Placer la boule de pâte au frais, 1 heure environ.  3 Etaler la pate à la main dans un moule à manqué avec revêtement anti adhésif.  Disposer les tronçons de rhubarbe sur la pâte.  4 Dans un saladier, battre les oeufs plus le blanc avec le sucre, ajouter la maïzena, puis le lait et la crème en mélangeant bien. Garnir la tarte.  5 Cuire au four préchauffé à 225°C pendant 30 à 40 minutes, la crème ne doit plus être liquide.  6 La démouler une fois refroidie est risqué mais possible en utilisant 2 plats à tarte.  },   % subject of the document
+    pdfkeywords={IF Inté 2010 -- Martius est un usurpateur qui n'a rien à faire là --. Oh, mais là aussi on peut marquer plein de truc. Alors si tu vois ça, tu peux envoyer un mail à l'équipe d'inté, ça nous fera plaisir d'être soutenu dans notre stupidité : \texttt{bonjourlesifs@gmail.com}.  Allez, à plus, et merci pour tout le poisson.}, % list of keywords
+    colorlinks=true,
+    linkcolor=gris25,          % color of internal links
+    urlcolor=gris25, % color of external links
+    linkbordercolor=gris25
+}
+
 
 
 \renewcommand{\LettrineFontHook}{\fontfamily{pag}%
