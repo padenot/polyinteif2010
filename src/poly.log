@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2010.5.7)  14 JUL 2010 15:26
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2010.5.7)  14 JUL 2010 16:31
 entering extended mode
  %&-line parsing enabled.
 **poly.tex
@@ -1184,17 +1184,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--21
 
  []
 
-) (./decouverteDepart.tex
-
-LaTeX Warning: Reference `plan' on page 6 undefined on input line 8.
-
-) (./soireeKFET.tex) (./visiteCampus.tex) (./petitDej.tex)
-(./pastisPetanque.tex) (./verreVille.tex) (./barathon.tex) (./karaoke.tex)
-[6 <./images/telPaulQRcode.png (PNG copy)> <./images/qrcodeBjrLesIfsTwitter.png
- (PNG copy)> <./images/qrcodeEmail.png (PNG copy)> <./images/qrcodeFacebook.png
- (PNG copy)>] (./flams.tex) (./rallye.tex) (./weiShort.tex) (./barbecue.tex)
-(./chouille.tex) (./conceptWEI.tex) (./vendrediWEI.tex
-<images/logoAltran.jpg, id=257, 486.1362pt x 86.2422pt>
+) (./decouverteDepart.tex) (./soireeKFET.tex) (./visiteCampus.tex)
+(./petitDej.tex) (./pastisPetanque.tex) (./verreVille.tex) (./barathon.tex)
+(./karaoke.tex) [6 <./images/telPaulQRcode.png (PNG copy)> <./images/qrcodeBjrL
+esIfsTwitter.png (PNG copy)> <./images/qrcodeEmail.png (PNG copy)> <./images/qr
+codeFacebook.png (PNG copy)>] (./flams.tex) (./rallye.tex) (./weiShort.tex)
+(./barbecue.tex) (./chouille.tex) (./conceptWEI.tex) (./vendrediWEI.tex
+<images/logoAltran.jpg, id=258, 486.1362pt x 86.2422pt>
 File: images/logoAltran.jpg Graphic file (type jpg)
 
 <use images/logoAltran.jpg>) (./samediWEI.tex [7 <./images/logoAltran.jpg>])
@@ -1202,57 +1198,57 @@ File: images/logoAltran.jpg Graphic file (type jpg)
 LaTeX Font Info:    Font shape `T1/yv1/m/sc' in size <10.95> not available
 (Font)              Font shape `T1/yv1/m/n' tried instead on input line 24.
 ) [8] (./presentationOrgas.tex
-<images/orgas/armand.jpg, id=272, 156.585pt x 214.401pt>
+<images/orgas/armand.jpg, id=273, 156.585pt x 214.401pt>
 File: images/orgas/armand.jpg Graphic file (type jpg)
 
 <use images/orgas/armand.jpg>
-<images/orgas/billy.jpg, id=273, 318.18875pt x 434.62375pt>
+<images/orgas/billy.jpg, id=274, 318.18875pt x 434.62375pt>
 File: images/orgas/billy.jpg Graphic file (type jpg)
 
 <use images/orgas/billy.jpg>
-<images/orgas/clement.jpg, id=274, 971.63pt x 650.43pt>
+<images/orgas/clement.jpg, id=275, 971.63pt x 650.43pt>
 File: images/orgas/clement.jpg Graphic file (type jpg)
 
 <use images/orgas/clement.jpg>
-<images/orgas/gael.jpg, id=275, 132.79613pt x 198.14024pt>
+<images/orgas/gael.jpg, id=276, 132.79613pt x 198.14024pt>
 File: images/orgas/gael.jpg Graphic file (type jpg)
 
 <use images/orgas/gael.jpg>
-<images/anonymous.jpg, id=276, 450.68375pt x 530.98375pt>
+<images/anonymous.jpg, id=277, 450.68375pt x 530.98375pt>
 File: images/anonymous.jpg Graphic file (type jpg)
 
 <use images/anonymous.jpg>
-<images/orgas/julian.jpg, id=277, 1072.005pt x 714.67pt>
+<images/orgas/julian.jpg, id=278, 1072.005pt x 714.67pt>
 File: images/orgas/julian.jpg Graphic file (type jpg)
 
 <use images/orgas/julian.jpg> [9 <./images/orgas/armand.jpg> <./images/orgas/bi
 lly.jpg> <./images/orgas/clement.jpg> <./images/orgas/gael.jpg> <./images/anony
 mous.jpg> <./images/orgas/julian.jpg>]
-<images/orgas/julien.jpg, id=288, 1009.7725pt x 673.51625pt>
+<images/orgas/julien.jpg, id=289, 1009.7725pt x 673.51625pt>
 File: images/orgas/julien.jpg Graphic file (type jpg)
 
 <use images/orgas/julien.jpg>
-<images/orgas/loic.jpg, id=289, 335.2525pt x 501.875pt>
+<images/orgas/loic.jpg, id=290, 335.2525pt x 501.875pt>
 File: images/orgas/loic.jpg Graphic file (type jpg)
 
 <use images/orgas/loic.jpg>
-<images/orgas/marc.jpg, id=290, 337.26pt x 501.875pt>
+<images/orgas/marc.jpg, id=291, 337.26pt x 501.875pt>
 File: images/orgas/marc.jpg Graphic file (type jpg)
 
 <use images/orgas/marc.jpg>
-<images/orgas/nicolas.jpg, id=291, 397.485pt x 706.64pt>
+<images/orgas/nicolas.jpg, id=292, 397.485pt x 706.64pt>
 File: images/orgas/nicolas.jpg Graphic file (type jpg)
 
 <use images/orgas/nicolas.jpg>
-<images/orgas/paul.jpg, id=292, 100.87688pt x 150.86363pt>
+<images/orgas/paul.jpg, id=293, 100.87688pt x 150.86363pt>
 File: images/orgas/paul.jpg Graphic file (type jpg)
 
 <use images/orgas/paul.jpg>
-<images/orgas/quentin.jpg, id=293, 256.96pt x 337.26pt>
+<images/orgas/quentin.jpg, id=294, 256.96pt x 337.26pt>
 File: images/orgas/quentin.jpg Graphic file (type jpg)
 
 <use images/orgas/quentin.jpg>
-<images/orgas/sandra.jpg, id=294, 97.86563pt x 130.086pt>
+<images/orgas/sandra.jpg, id=295, 97.86563pt x 130.086pt>
 File: images/orgas/sandra.jpg Graphic file (type jpg)
 
 <use images/orgas/sandra.jpg> [10
@@ -1260,7 +1256,7 @@ File: images/orgas/sandra.jpg Graphic file (type jpg)
  <./images/orgas/julien.jpg> <./images/orgas/loic.jpg> <./images/orgas/marc.jpg
 > <./images/orgas/nicolas.jpg> <./images/orgas/paul.jpg> <./images/orgas/quenti
 n.jpg>]
-<images/orgas/sebastien.jpg, id=305, 100.87688pt x 139.11975pt>
+<images/orgas/sebastien.jpg, id=306, 100.87688pt x 139.11975pt>
 File: images/orgas/sebastien.jpg Graphic file (type jpg)
 
 <use images/orgas/sebastien.jpg>
@@ -1269,7 +1265,7 @@ File: images/anonymous.jpg Graphic file (type jpg)
 File: images/anonymous.jpg Graphic file (type jpg)
 
 <use images/anonymous.jpg>
-<images/stormtrooper_biere.png, id=306, 522.56769pt x 588.77307pt>
+<images/stormtrooper_biere.png, id=307, 522.56769pt x 588.77307pt>
 File: images/stormtrooper_biere.png Graphic file (type png)
 
 <use images/stormtrooper_biere.png>) [11 <./images/orgas/sandra.jpg> <./images/
@@ -1286,7 +1282,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--62
 
 File: images/anonymous.jpg Graphic file (type jpg)
 <use images/anonymous.jpg> [13]
-<images/stormTrooperBourre.png, id=333, 471.01846pt x 308.28462pt>
+<images/stormTrooperBourre.png, id=334, 471.01846pt x 308.28462pt>
 File: images/stormTrooperBourre.png Graphic file (type png)
 
 <use images/stormTrooperBourre.png>) [14 <./images/stormTrooperBourre.png>]
@@ -1321,11 +1317,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--26
 
 ] [20
 
-] (./poly.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+] (./poly.aux) ) 
 Here is how much of TeX's memory you used:
  10099 strings out of 94074
  134578 string characters out of 1165154
@@ -1334,16 +1326,16 @@ Here is how much of TeX's memory you used:
  106279 words of font info for 75 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
  30i,12n,43p,1359b,568s stack positions out of 5000i,500n,6000p,200000b,5000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf-
-texlive/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texlive/fonts/type1/publi
-c/fourier/fourier-ms.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0900
-.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1095.pfb></home/paul/tex
-mf/fonts/type1/arkandis/venturissans/yv1b8ax.pfb></home/paul/texmf/fonts/type1/
-arkandis/venturissans/yv1r8a.pfb></home/paul/texmf/fonts/type1/arkandis/venturi
-ssans/yv1ri8a.pfb>
-Output written on poly.pdf (20 pages, 2383605 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/us
+r/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texlive/fon
+ts/type1/public/fourier/fourier-ms.pfb></usr/share/texmf/fonts/type1/public/cm-
+super/sftt0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1095.pfb><
+/home/paul/texmf/fonts/type1/arkandis/venturissans/yv1b8ax.pfb></home/paul/texm
+f/fonts/type1/arkandis/venturissans/yv1r8a.pfb></home/paul/texmf/fonts/type1/ar
+kandis/venturissans/yv1ri8a.pfb>
+Output written on poly.pdf (20 pages, 2386751 bytes).
 PDF statistics:
- 421 PDF objects out of 1000 (max. 8388607)
+ 422 PDF objects out of 1000 (max. 8388607)
  106 named destinations out of 1000 (max. 131072)
  434 words of extra memory for PDF output out of 10000 (max. 10000000)
 
