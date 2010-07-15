@@ -16,18 +16,18 @@
 \contentsline {subsubsection}{\numberline {2.2.1}Amphis}{4}{subsubsection.2.2.1}
 \contentsline {subsubsection}{\numberline {2.2.2}TD}{5}{subsubsection.2.2.2}
 \contentsline {subsubsection}{\numberline {2.2.3}TP}{5}{subsubsection.2.2.3}
-\contentsline {subsection}{\numberline {2.3}Enseignement}{5}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.3}Enseignements}{5}{subsection.2.3}
 \contentsline {section}{\numberline {3}Planning de l'int\IeC {\'e}}{6}{section.3}
 \contentsline {subsection}{\numberline {3.1}Vendredi 10 : D\IeC {\'e}couverte du d\IeC {\'e}part'}{6}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2}Vendredi 10 : Soir\IeC {\'e}e K-F\IeC {\^e}t}{6}{subsection.3.2}
 \contentsline {subsection}{\numberline {3.3}Samedi 11 : Visite du campus}{6}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}Dimanche 12 : Ptit d\IeC {\'e}j}{6}{subsection.3.4}
-\contentsline {subsection}{\numberline {3.5}Dimanche 12 : P\IeC {\'e}tanque/Pastis}{6}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.4}Dimanche 12 : P'tit d\IeC {\'e}j}{6}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Dimanche 12 : Pastis-P\IeC {\'e}tanque}{6}{subsection.3.5}
 \contentsline {subsection}{\numberline {3.6}Dimanche 12 : Boire un verre en ville}{6}{subsection.3.6}
 \contentsline {subsection}{\numberline {3.7}Lundi 13 : Barathon}{6}{subsection.3.7}
 \contentsline {subsection}{\numberline {3.8}Mardi 14 : Soir\IeC {\'e}e Jeux/Karaok\IeC {\'e}}{7}{subsection.3.8}
 \contentsline {subsection}{\numberline {3.9}Mercredi 15 : Flam's}{7}{subsection.3.9}
-\contentsline {subsection}{\numberline {3.10}Jeudi 16 : Rallye Lyon}{7}{subsection.3.10}
+\contentsline {subsection}{\numberline {3.10}Jeudi 16 : Rallye dans Lyon}{7}{subsection.3.10}
 \contentsline {subsection}{\numberline {3.11}Vendredi 17 : WEI}{7}{subsection.3.11}
 \contentsline {subsection}{\numberline {3.12}Jeudi 23 : Barbecue}{7}{subsection.3.12}
 \contentsline {subsection}{\numberline {3.13}Vendredi 24 : Soir\IeC {\'e}e Chouille IF }{7}{subsection.3.13}
@@ -75,7 +75,7 @@
 \contentsline {subsubsection}{\numberline {6.8.1}Comment venir \IeC {\`a} l'INSA}{18}{subsubsection.6.8.1}
 \contentsline {subsubsection}{\numberline {6.8.2}On fait quoi une fois arriv\IeC {\'e}}{18}{subsubsection.6.8.2}
 \contentsline {section}{\numberline {7}Lexique}{19}{section.7}
-\contentsline {section}{\numberline {8}Plan Campus, TCL}{20}{section.8}
-\contentsline {subsection}{\numberline {8.1}Plan du campus}{20}{subsection.8.1}
-\contentsline {subsection}{\numberline {8.2}Plan TCL}{21}{subsection.8.2}
-\contentsline {subsection}{\numberline {8.3}Plan du d\IeC {\'e}part (2\up {e} \IeC {\'e}tage)}{22}{subsection.8.3}
+\contentsline {section}{\numberline {8}Plans}{21}{section.8}
+\contentsline {subsection}{\numberline {8.1}Plan du campus}{21}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Plan TCL}{22}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}Plan du d\IeC {\'e}part (2\up {e} \IeC {\'e}tage)}{23}{subsection.8.3}
