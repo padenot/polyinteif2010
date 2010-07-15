@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2010.5.7)  15 JUL 2010 17:31
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2010.5.7)  15 JUL 2010 19:52
 entering extended mode
  %&-line parsing enabled.
 **poly.tex
@@ -1155,7 +1155,7 @@ LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 6.99199pt on input line 22.
  [3]) (./scolarite.tex [4])
 (./enseignement.tex) [5] (./introInte.tex
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
 []\T1/yv1/m/n/10.95 Twitter : un pe-tit mes-sage à
  []
 
@@ -1175,12 +1175,12 @@ File: images/qrcodeEmail.png Graphic file (type png)
 File: images/qrcodeFacebook.png Graphic file (type png)
 
 <use images/qrcodeFacebook.png>
-Overfull \hbox (7.95152pt too wide) in paragraph at lines 14--21
+Overfull \hbox (7.95152pt too wide) in paragraph at lines 18--25
 []  []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--21
+Underfull \hbox (badness 10000) in paragraph at lines 18--25
 
  []
 
@@ -1201,12 +1201,12 @@ LaTeX Font Info:    Font shape `T1/yv1/m/sc' in size <10.95> not available
 <images/coupon.png, id=287, 578.6418pt x 244.2726pt>
 File: images/coupon.png Graphic file (type png)
  <use images/coupon.png>)
-Overfull \hbox (14.15862pt too wide) in paragraph at lines 28--56
+Overfull \hbox (14.15862pt too wide) in paragraph at lines 25--60
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--56
+Underfull \hbox (badness 10000) in paragraph at lines 25--60
 
  []
 
@@ -1294,7 +1294,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--12
 File: images/anonymous.jpg Graphic file (type jpg)
 <use images/anonymous.jpg> [12]
 Underfull \hbox (badness 10000) in paragraph at lines 60--62
-[]\T1/yv1/bx/n/10.95 Combien d'épi-sode de sé-rie
+[]\T1/yv1/bx/n/10.95 Combien d'épi-sodes de sé-ries
  []
 
 File: images/anonymous.jpg Graphic file (type jpg)
@@ -1353,101 +1353,16 @@ Overfull \hbox (19.70464pt too wide) in paragraph at lines 25--27
  []
 
 [22 <./images/planTCLFullRes.jpg>]
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 29.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 29.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 29.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 29.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `\mathsurround' on input line 29.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `\z@' on input line 29.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 29.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `superscript' on input line 29.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `\afterassignment' on input line 29.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `\<def>-command' on input line 29.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `\f@size' on input line 29.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `\afterassignment' on input line 29.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `\<def>-command' on input line 29.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `\f@baselineskip' on input line 29.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `\<def>-command' on input line 29.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `\f@linespread' on input line 29.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `\<let>-command' on input line 29.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `\baselinestretch' on input line 29.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `\<def>-command' on input line 29.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `\<def>-command' on input line 29.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `\font@name' on input line 29.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `\T1/yv1/bx/n/9' on input line 29.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 29.
-
 <images/planDepart.jpg, id=422, 1510.443pt x 881.2122pt>
 File: images/planDepart.jpg Graphic file (type jpg)
 
 <use images/planDepart.jpg>) [23 <./images/planDepart.jpg>] (./poly.aux) ) 
 Here is how much of TeX's memory you used:
- 10160 strings out of 94074
- 135659 string characters out of 1165154
+ 10148 strings out of 94074
+ 135485 string characters out of 1165154
  229527 words of memory out of 1500000
- 12967 multiletter control sequences out of 10000+50000
- 120673 words of font info for 87 fonts, out of 1200000 for 2000
+ 12955 multiletter control sequences out of 10000+50000
+ 106279 words of font info for 75 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
  30i,12n,43p,1359b,562s stack positions out of 5000i,500n,6000p,200000b,5000s
 {/usr
@@ -1458,7 +1373,7 @@ usr/share/texmf/fonts/type1/public/cm-super/sftt1095.pfb></home/paul/texmf/font
 s/type1/arkandis/venturissans/yv1b8ax.pfb></home/paul/texmf/fonts/type1/arkandi
 s/venturissans/yv1r8a.pfb></home/paul/texmf/fonts/type1/arkandis/venturissans/y
 v1ri8a.pfb>
-Output written on poly.pdf (23 pages, 4897403 bytes).
+Output written on poly.pdf (23 pages, 4897974 bytes).
 PDF statistics:
  477 PDF objects out of 1000 (max. 8388607)
  121 named destinations out of 1000 (max. 131072)

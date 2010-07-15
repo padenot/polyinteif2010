@@ -78,4 +78,4 @@
 \contentsline {section}{\numberline {8}Plans}{21}{section.8}
 \contentsline {subsection}{\numberline {8.1}Plan du campus}{21}{subsection.8.1}
 \contentsline {subsection}{\numberline {8.2}Plan TCL}{22}{subsection.8.2}
-\contentsline {subsection}{\numberline {8.3}Plan du d\IeC {\'e}part (2\up {e} \IeC {\'e}tage)}{23}{subsection.8.3}
+\contentsline {subsection}{\numberline {8.3}Plan du d\IeC {\'e}part'}{23}{subsection.8.3}
