@@ -75,7 +75,7 @@
 \contentsline {subsubsection}{\numberline {6.8.1}Comment venir \IeC {\`a} l'INSA}{21}{subsubsection.6.8.1}
 \contentsline {subsubsection}{\numberline {6.8.2}On fait quoi une fois arriv\IeC {\'e}}{21}{subsubsection.6.8.2}
 \contentsline {section}{\numberline {7}Lexique}{23}{section.7}
-\contentsline {section}{\numberline {8}Plans}{24}{section.8}
-\contentsline {subsection}{\numberline {8.1}Plan du campus}{24}{subsection.8.1}
-\contentsline {subsection}{\numberline {8.2}Plan TCL}{25}{subsection.8.2}
-\contentsline {subsection}{\numberline {8.3}Plan du d\IeC {\'e}partement}{26}{subsection.8.3}
+\contentsline {section}{\numberline {8}Plans}{25}{section.8}
+\contentsline {subsection}{\numberline {8.1}Plan du campus}{25}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Plan TCL}{26}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}Plan du d\IeC {\'e}partement}{27}{subsection.8.3}

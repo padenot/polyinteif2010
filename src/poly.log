@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2010.5.7)  16 JUL 2010 15:28
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2010.5.7)  16 JUL 2010 15:33
 entering extended mode
  %&-line parsing enabled.
 **poly.tex
@@ -1310,7 +1310,7 @@ File: images/anonymous.jpg Graphic file (type jpg)
 <use images/anonymous.jpg>
 File: images/sabrolaser.jpg Graphic file (type jpg)
  <use images/sabrolaser.jpg> [14 <./images/anonymous.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 78--80
+Underfull \hbox (badness 10000) in paragraph at lines 77--79
 []\T1/yv1/bx/n/10.95 Combien d'épi-sodes de sé-ries
  []
 
@@ -1367,12 +1367,14 @@ File: images/sabrolaser.jpg Graphic file (type jpg)
 <use images/sabrolaser.jpg> [21]
 File: images/sabrolaser.jpg Graphic file (type jpg)
  <use images/sabrolaser.jpg> [22]
-(./lexique.tex)
+(./lexique.tex
 File: images/sabrolaser.jpg Graphic file (type jpg)
  <use images/sabrolaser.jpg> [23
 
-] (./plans.tex
-<images/planDoua.jpg, id=435, 729.927pt x 336.7782pt>
+])
+File: images/sabrolaser.jpg Graphic file (type jpg)
+ <use images/sabrolaser.jpg>
+[24] (./plans.tex <images/planDoua.jpg, id=439, 729.927pt x 336.7782pt>
 File: images/planDoua.jpg Graphic file (type jpg)
 
 <use images/planDoua.jpg>
@@ -1381,10 +1383,10 @@ Overfull \hbox (19.70464pt too wide) in paragraph at lines 2--22
  []
 
 File: images/sabrolaser.jpg Graphic file (type jpg)
-<use images/sabrolaser.jpg> [24
+<use images/sabrolaser.jpg> [25
 
  <./images/planDoua.jpg>]
-<images/planTCLFullRes.jpg, id=450, 429.02759pt x 514.5914pt>
+<images/planTCLFullRes.jpg, id=455, 429.02759pt x 514.5914pt>
 File: images/planTCLFullRes.jpg Graphic file (type jpg)
 
 <use images/planTCLFullRes.jpg>
@@ -1393,21 +1395,21 @@ Overfull \hbox (19.70464pt too wide) in paragraph at lines 25--27
  []
 
 File: images/sabrolaser.jpg Graphic file (type jpg)
-<use images/sabrolaser.jpg> [25 <./images/planTCLFullRes.jpg>]
-<images/planDepart.jpg, id=456, 1510.443pt x 881.2122pt>
+<use images/sabrolaser.jpg> [26 <./images/planTCLFullRes.jpg>]
+<images/planDepart.jpg, id=460, 1510.443pt x 881.2122pt>
 File: images/planDepart.jpg Graphic file (type jpg)
 
 <use images/planDepart.jpg>)
 File: images/sabrolaser.jpg Graphic file (type jpg)
- <use images/sabrolaser.jpg> [26 <./images/planDepart.jpg>] (./poly.aux) ) 
+ <use images/sabrolaser.jpg> [27 <./images/planDepart.jpg>] (./poly.aux) ) 
 Here is how much of TeX's memory you used:
- 9431 strings out of 94074
- 127700 string characters out of 1165154
+ 9432 strings out of 94074
+ 127707 string characters out of 1165154
  215985 words of memory out of 1500000
  12221 multiletter control sequences out of 10000+50000
  125091 words of font info for 86 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 31i,16n,43p,1359b,558s stack positions out of 5000i,500n,6000p,200000b,5000s
+ 31i,16n,43p,1359b,614s stack positions out of 5000i,500n,6000p,200000b,5000s
 {/usr
 /share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf-texlive
 /fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texlive/fonts/type1/bluesky/cm/c
@@ -1417,9 +1419,9 @@ nts/type1/public/cm-super/sftt1095.pfb></usr/share/texmf-texlive/fonts/type1/ur
 w/helvetic/uhvb8a.pfb></home/paul/texmf/fonts/type1/arkandis/venturissans/yv1b8
 ax.pfb></home/paul/texmf/fonts/type1/arkandis/venturissans/yv1r8a.pfb></home/pa
 ul/texmf/fonts/type1/arkandis/venturissans/yv1ri8a.pfb>
-Output written on poly.pdf (26 pages, 5020656 bytes).
+Output written on poly.pdf (27 pages, 5021443 bytes).
 PDF statistics:
- 517 PDF objects out of 1000 (max. 8388607)
- 124 named destinations out of 1000 (max. 131072)
+ 521 PDF objects out of 1000 (max. 8388607)
+ 125 named destinations out of 1000 (max. 131072)
  513 words of extra memory for PDF output out of 10000 (max. 10000000)
 
