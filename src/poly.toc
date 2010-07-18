@@ -24,7 +24,7 @@
 \contentsline {subsection}{\numberline {3.4}Dimanche 12 : P'tit d\IeC {\'e}j}{8}{subsection.3.4}
 \contentsline {subsection}{\numberline {3.5}Dimanche 12 : Pastis-P\IeC {\'e}tanque}{8}{subsection.3.5}
 \contentsline {subsection}{\numberline {3.6}Dimanche 12 : Boire un verre en ville}{8}{subsection.3.6}
-\contentsline {subsection}{\numberline {3.7}Lundi 13 : Barathon}{9}{subsection.3.7}
+\contentsline {subsection}{\numberline {3.7}Lundi 13 : Barathon}{8}{subsection.3.7}
 \contentsline {subsection}{\numberline {3.8}Mardi 14 : Soir\IeC {\'e}e Jeux/Karaok\IeC {\'e}}{9}{subsection.3.8}
 \contentsline {subsection}{\numberline {3.9}Mercredi 15 : Flam's}{9}{subsection.3.9}
 \contentsline {subsection}{\numberline {3.10}Jeudi 16 : Rallye dans Lyon}{9}{subsection.3.10}
@@ -67,7 +67,7 @@
 \contentsline {paragraph}{Sports}{19}{section*.42}
 \contentsline {subsection}{\numberline {6.5}BdE}{19}{subsection.6.5}
 \contentsline {subsection}{\numberline {6.6}Gros \IeC {\'e}v\IeC {\`e}nements}{19}{subsection.6.6}
-\contentsline {paragraph}{Le Gala}{20}{section*.43}
+\contentsline {paragraph}{Le Gala}{19}{section*.43}
 \contentsline {paragraph}{Le Karnaval Humanitaire}{20}{section*.44}
 \contentsline {paragraph}{Les 24h de l'INSA}{20}{section*.45}
 \contentsline {subsection}{\numberline {6.7}Lyon en gros}{20}{subsection.6.7}
@@ -75,7 +75,7 @@
 \contentsline {subsubsection}{\numberline {6.8.1}Comment venir \IeC {\`a} l'INSA}{21}{subsubsection.6.8.1}
 \contentsline {subsubsection}{\numberline {6.8.2}On fait quoi une fois arriv\IeC {\'e}}{21}{subsubsection.6.8.2}
 \contentsline {section}{\numberline {7}Lexique}{23}{section.7}
-\contentsline {section}{\numberline {8}Plans}{26}{section.8}
-\contentsline {subsection}{\numberline {8.1}Plan du campus}{26}{subsection.8.1}
-\contentsline {subsection}{\numberline {8.2}Plan TCL}{27}{subsection.8.2}
-\contentsline {subsection}{\numberline {8.3}Plan du d\IeC {\'e}partement}{28}{subsection.8.3}
+\contentsline {section}{\numberline {8}Plans}{25}{section.8}
+\contentsline {subsection}{\numberline {8.1}Plan du campus}{25}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Plan TCL}{26}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}Plan du d\IeC {\'e}partement}{27}{subsection.8.3}

@@ -1,7 +1,7 @@
 \documentclass[a4paper, 11pt]{inte}
 
 % Faire des marges un peu moins larges que celles par défaut
-\usepackage[top=20mm, bottom=25mm, left=20mm, right=20mm]{geometry}
+\usepackage[top=20mm, bottom=20mm, left=20mm, right=20mm]{geometry}
 \usepackage[utf8]{inputenc} % Pour l'encodage 
 % Reconnaître les caractères accentués dans les sources.
 \usepackage[T1]{fontenc} 
@@ -47,7 +47,7 @@
 \pagestyle{fancy}
 \rhead{INSA de Lyon}
 \lhead{Poly d'inté IF'2010}
-\cfoot{\thepage}
+\cfoot{\raisebox{-1.1ex}{\thepage}}
 %\renewcommand{\footrulewidth}{0.4pt}
 
 \setcounter{tocdepth}{2}
@@ -71,7 +71,7 @@
 
 \AddToShipoutPicture{%
 \setlength{\unitlength}{1mm}%
-\put(20, 10){%
+\put(20, 3){%
 \includegraphics[width=\textwidth]{images/sabrolaser.jpg}}}
 
 % Couleur des url et des liens internes.
