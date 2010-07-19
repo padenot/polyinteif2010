@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2010.5.7)  19 JUL 2010 11:33
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2010.5.7)  19 JUL 2010 14:47
 entering extended mode
  %&-line parsing enabled.
 **poly.tex
@@ -941,32 +941,22 @@ Package hyperref Warning: Unsupported color specification (linkbordercolor).
 \auteurcitation=\box65
 \boitecitation=\box66
 ) (./poly.aux)
-Runaway argument?
-{\contentsline {par 
-! File ended while scanning use of \@writefile.
-<inserted text> 
-                \par 
-l.3 \begin{document}
-                    
-? 
-! Emergency stop.
-<inserted text> 
-                \par 
-l.3 \begin{document}
-                    
-End of file on the terminal!
+\openout1 = `poly.aux'.
 
- 
-Here is how much of TeX's memory you used:
- 7911 strings out of 94074
- 104730 string characters out of 1165154
- 196017 words of memory out of 1500000
- 11064 multiletter control sequences out of 10000+50000
- 4709 words of font info for 16 fonts, out of 1200000 for 2000
- 645 hyphenation exceptions out of 8191
- 30i,0n,43p,1359b,218s stack positions out of 5000i,500n,6000p,200000b,5000s
-!  ==> Fatal error occurred, no output PDF file produced!
-TeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/lmr/m/n on input line 3.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 3.
+ (/usr/share/texmf/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2007/01/14 v1.3 Font defs for Latin Modern
+)
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 3.
@@ -1239,7 +1229,7 @@ File: images/orgas/billy.jpg Graphic file (type jpg)
 File: images/orgas/clement.jpg Graphic file (type jpg)
 
 <use images/orgas/clement.jpg>
-Underfull \hbox (badness 10000) in paragraph at lines 11--12
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
  []
 
@@ -1287,16 +1277,16 @@ File: images/orgas/quentin.jpg Graphic file (type jpg)
 File: images/orgas/sandra.jpg Graphic file (type jpg)
 
 <use images/orgas/sandra.jpg>
-<images/orgas/sebastien.jpg, id=325, 100.87688pt x 139.11975pt>
-File: images/orgas/sebastien.jpg Graphic file (type jpg)
-
-<use images/orgas/sebastien.jpg>
 File: images/sabrolaser.jpg Graphic file (type jpg)
  <use images/sabrolaser.jpg> [12
 
  <./images/orgas/julien.jpg> <./images/orgas/loic.jpg> <./images/orgas/marc.jpg
 > <./images/orgas/nicolas.jpg> <./images/orgas/paul.jpg> <./images/orgas/quenti
 n.jpg>]
+<images/orgas/sebastien.jpg, id=335, 100.87688pt x 139.11975pt>
+File: images/orgas/sebastien.jpg Graphic file (type jpg)
+
+<use images/orgas/sebastien.jpg>
 <images/orgas/vincent.jpg, id=336, 426.59375pt x 640.3925pt>
 File: images/orgas/vincent.jpg Graphic file (type jpg)
 
@@ -1425,7 +1415,7 @@ Here is how much of TeX's memory you used:
  12215 multiletter control sequences out of 10000+50000
  119798 words of font info for 84 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 31i,16n,43p,1359b,574s stack positions out of 5000i,500n,6000p,200000b,5000s
+ 31i,16n,43p,1359b,562s stack positions out of 5000i,500n,6000p,200000b,5000s
 {/usr
 /share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf-texlive
 /fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texlive/fonts/type1/bluesky/cm/c
@@ -1435,7 +1425,7 @@ nts/type1/public/cm-super/sftt1095.pfb></usr/share/texmf-texlive/fonts/type1/ur
 w/helvetic/uhvb8a.pfb></home/paul/texmf/fonts/type1/arkandis/venturissans/yv1b8
 ax.pfb></home/paul/texmf/fonts/type1/arkandis/venturissans/yv1r8a.pfb></home/pa
 ul/texmf/fonts/type1/arkandis/venturissans/yv1ri8a.pfb>
-Output written on poly.pdf (27 pages, 5955142 bytes).
+Output written on poly.pdf (27 pages, 5955139 bytes).
 PDF statistics:
  502 PDF objects out of 1000 (max. 8388607)
  125 named destinations out of 1000 (max. 131072)
